@@ -1,3 +1,20 @@
 /*Selector {
 	Property: value;
 	}*/
+
+body{
+	background: #ffad98;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+
+	border:1px solid black;
+	border-radius: 5px;
+
+	padding: 4px;
+
+margin: 4px;
+
+}
