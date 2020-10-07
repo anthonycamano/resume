@@ -3,7 +3,9 @@
 	}*/
 
 body{
-	background: #ffad98;
+	background: #7dcdf3;
+	display: flex;
+	justify-content: flex-end;
 }
 
 li{
