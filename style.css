@@ -1,3 +1,27 @@
 /*Selector {
 	Property: value;
 	}*/
+
+	body{
+		background-color: powderblue;
+	}
+
+	.resumePage{
+		text-align: center;
+		border:3px solid black;
+		background-color: white;
+		margin: 25%;
+	}
+
+	h2{
+		text-align: left;
+		border-bottom: 2px solid black;
+	}
+
+	h4{
+		margin: 5px;
+	}
+
+	li{
+		text-align: left;
+	}
