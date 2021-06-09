@@ -2,21 +2,26 @@
 	Property: value;
 	}*/
 
-body{
-	background: #7dcdf3;
-	display: flex;
-	justify-content: flex-end;
-}
+	body{
+		background-color: powderblue;
+	}
 
-li{
-	list-style: none;
-	display: inline-block;
+	.resumePage{
+		text-align: center;
+		border:3px solid black;
+		background-color: white;
+		margin: 25%;
+	}
 
-	border:1px solid black;
-	border-radius: 5px;
+	h2{
+		text-align: left;
+		border-bottom: 2px solid black;
+	}
 
-	padding: 4px;
+	h4{
+		margin: 5px;
+	}
 
-margin: 4px;
-
-}
+	li{
+		text-align: left;
+	}
